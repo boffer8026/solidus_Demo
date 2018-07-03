@@ -8,3 +8,5 @@
 //= require jquery_ujs
 //= require spree/backend
 //= require_tree .
+//= require turbolinks
+//= require backend/app/assets/javascripts/spree/backend/turbolinks-integration.js

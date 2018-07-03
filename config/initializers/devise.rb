@@ -1,0 +1,1 @@
+config.secret_key = '07f8e3d29ace53ed0006fbfb1174ee53cc2ffe20dd3396e611026c5ef2d0149e7bbaf4cb3c29f81a0feda3a6cadaf03f20f1f1c2476d13f781a8c011492e96b8'
